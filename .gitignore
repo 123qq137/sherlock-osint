@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+dist/
+out/
+build/
+*.egg-info/
+.DS_Store
+Thumbs.db
+.env
+.sherlock_home
